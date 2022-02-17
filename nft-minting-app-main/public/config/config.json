@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8295576e86f16656f0b5548447750975f79cc2d9",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8295576e86f16656f0b5548447750975f79cc2d9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Fox.Bond.Club Metaverse Tickets",
+  "SYMBOL": "FBM",
+  "MAX_SUPPLY": 3757,
+  "WEI_COST": 17000000000000000000,
+  "DISPLAY_COST": 17,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fox-bond-club-metaverse-tickets",
+  "SHOW_BACKGROUND": true
+}
